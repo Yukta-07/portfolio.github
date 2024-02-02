@@ -1,9 +1,9 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
-import { BsInfoCircleFill } from "react-icons/bs";
+import { BsInfoCircleFill } from 'react-icons/bs';
 import{Animate} from 'react-simple-animate';
 import { skillsData } from "./utils";
-import { AnimateKeyframes } from "react-simple-animate";
+import { AnimateKeyframes } from 'react-simple-animate';
 import {Line} from 'rc-progress';
 import './styles.scss';
  const Skills=()=>{
